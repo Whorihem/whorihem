@@ -25,4 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/whorihem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="whorihem" /></a></p><br><br>
-<img width="1579" height="1348" alt="image" src="https://github.com/user-attachments/assets/0f77ea45-fd55-4f41-a6a9-69e6c832bf2d" />
