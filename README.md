@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/1200x/75/ee/c3/75eec3d07aaed0978677bb7ca41f4459.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/1200x/3c/9b/2a/3c9b2a8441a9b41a670eeb412e352a2e.jpg)](https://rishavchanda.io)
 <h1 align="center">Heyyy , I'm rihem</h1>
 <h3 align="center">i'm not profesionel yet but i will be</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/29/23/63/2923630b6f61e65382ad7d4e5a2a303d.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/be/81/d5/be81d556d2bcbd39a2d0b436143f115c.jpg">
 
 - 🔭 I’m currently working on **spacetoon project**
 
