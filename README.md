@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **spacetoon project**
 
-- 🌱 I’m currently learning **paython**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **html,tailwindcss**
 
-- 📫 How to reach me **lucasrihem@gmail.com**
+- 📫 How to reach me **rihemkhebtane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
